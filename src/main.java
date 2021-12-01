@@ -59,7 +59,7 @@ public class main {
         System.out.println( a10 + "*"); // фио
 
         for (int i = 0; i < max + 2; i++) { //нижняя рамка
-            System.out.print("*");
+             System.out.print("*");
         }
 
     }
